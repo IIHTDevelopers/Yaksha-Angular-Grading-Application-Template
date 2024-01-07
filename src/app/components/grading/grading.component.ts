@@ -18,8 +18,6 @@ export class GradingComponent {
   isEditing = false;
   searchKeyword = '';
 
-  constructor() { }
-
   addStudent(): void {
   }
 
